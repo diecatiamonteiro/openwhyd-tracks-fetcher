@@ -38,7 +38,7 @@ This project fetches and displays the "Hot Tracks" from the Openwhyd Data Export
 ## Demo
 
 You can try out the Track Fetcher by visiting the following link:
-[Openwhyd Hot Tracks Fetcher](https://diecatiamonteiro.github.io/openwhyd-tracks-listener/)
+[Openwhyd Hot Tracks Listener](https://diecatiamonteiro.github.io/openwhyd-tracks-listener/)
 
 ## API Reference
 
