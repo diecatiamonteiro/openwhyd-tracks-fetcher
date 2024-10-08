@@ -1,4 +1,4 @@
-# ▶️ Openwhyd Hot Tracks Fetcher
+# ▶️ Openwhyd Hot Tracks Listener
 
 This project fetches and displays the "Hot Tracks" from the Openwhyd Data Export API. It dynamically renders the list of tracks using JavaScript and provides clickable links to the respective music platforms (e.g., YouTube). The project also uses localStorage to cache the fetched data, improving performance by avoiding unnecessary API calls on subsequent visits.
 
@@ -38,7 +38,7 @@ This project fetches and displays the "Hot Tracks" from the Openwhyd Data Export
 ## Demo
 
 You can try out the Track Fetcher by visiting the following link:
-[Openwhyd Hot Tracks Fetcher](https://diecatiamonteiro.github.io/pokemon-finder/)
+[Openwhyd Hot Tracks Fetcher](https://diecatiamonteiro.github.io/openwhyd-tracks-fetcher/)
 
 ## API Reference
 
