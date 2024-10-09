@@ -46,4 +46,10 @@ You can try out the Track Fetcher by visiting the following link:
 
 ## Preview
 
-![Fetcher screenshot](./screenshots/screenshot-fetcher.png)
+### Desktop:
+![Listener desktop](./screenshots/desktop.png)
+
+### Mobile:
+![Listener mobile](./screenshots/mobile.png)
+
+# Thanks for reading. Enjoy listening to some tracks!

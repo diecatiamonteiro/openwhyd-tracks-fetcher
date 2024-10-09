@@ -34,7 +34,6 @@ h1 {
   width: 70%;
   max-width: 950px;
   margin-bottom: 50px; /* Add space at the bottom */
-
 }
 
 #container li {
@@ -44,6 +43,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   font-weight: normal;
+  align-items: center;
 }
 
 #container li:not(:last-child) {
@@ -53,7 +53,7 @@ h1 {
 a {
   color: #428162;
   padding-left: 20px;
-
+  font-size: 1.5rem;
 }
 
 a:hover {
@@ -86,10 +86,10 @@ a:active {
     line-height: 15px;
     align-items: center;
     padding: 10px 8px;
-
   }
 
   a {
     padding-left: 20px;
+    font-size: 1.3rem;
   }
 }
